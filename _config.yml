@@ -1,9 +1,9 @@
 title: Exoskeletons | Robert Marcus
 email: rbm@awstrol.com
 description: From Atlas to Awstrol, the evolution and story of my exoskeletons. 
-baseurl: "awstrol.github.io/sitebeta/" # the subpath of your site, e.g. /blog
+baseurl: /project-site # the subpath of your site, e.g. /blog
 #url: "http://127.0.0.1:4000" # for testing purpose
-url: "tawstrol.github.io/sitebeta/" # the base hostname & protocol for your site
+url: "awstrol.github.io/sitebeta/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
